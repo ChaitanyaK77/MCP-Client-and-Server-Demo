@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "TravelDesk": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "/Users/chaitanyakakade/Downloads/MCP/ChaitanyaMCPServer/main.py"
+      ]
+    }
+  }
+}
