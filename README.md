@@ -69,6 +69,6 @@ How many approved trips does E002 have?
 Get travel history for E001
 greeting://Chaitanya
 
-![Claude UI Screenshot](./screenshot.png)
+![Claude UI Screenshot](./screenshot.jpeg)
 
 
