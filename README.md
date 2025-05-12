@@ -1,6 +1,6 @@
 # 🧳 MCP Travel Desk — A Minimal MCP Client & Server Demo
 
-This is a simple demonstration of building an **MCP server** and using **Claude Desktop as a client**. It simply shows a Travel Desk system to handle employee travel requests, approvals, and history tracking — all accessible directly from Claude.
+This is a simple repository that shows the process of building an **MCP server** and using **Claude Desktop as a client**. I have shown here a simple Travel Desk system to handle employee travel requests, approvals, and history tracking — all accessible directly from Claude. One can modify the contents of this repo to develop specific MCP use cases.
 
 ---
 
