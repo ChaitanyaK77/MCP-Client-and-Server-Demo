@@ -4,7 +4,7 @@ This is a simple repository that shows the process of building an **MCP server**
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Install Claude Desktop
 Download and install Claude Desktop from [Anthropic](https://www.anthropic.com). This acts as your **MCP client**.
