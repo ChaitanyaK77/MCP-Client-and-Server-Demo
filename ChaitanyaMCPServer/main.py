@@ -8,6 +8,7 @@ employee_travel_data = {
     "E002": {"requests": [], "approved": 0}
 }
 
+
 # I have created an MCP server here 
 mcp = FastMCP("TravelDesk")
 
